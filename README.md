@@ -8,4 +8,4 @@
 ## Testi Bot [ᴍᴜꜱɪᴄ ᴋᴇᴋɪɴɪᴀɴ](https://t.me/Kekiniian_bot)
 
 ## Credit
-• [KYY](t.me/zxcskyy)
+• [ᴾᴱᴺᴳᴳᴬᴸᴵ ᴷᵁᴮᵁᴿ](t.me/rumahakhirat)
