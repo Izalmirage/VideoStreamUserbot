@@ -5,7 +5,7 @@
 
 ## KALAU NGEFORK JANGAN LUPA KASI STARNYA YA ANJG 
  
-## Testi Bot [VIEENA ROBOT](https://t.me/vieenarobot)
+## Testi Bot [ᴍᴜꜱɪᴄ ᴋᴇᴋɪɴɪᴀɴ](https://t.me/Kekiniian_bot)
 
 ## Credit
 • [KYY](t.me/zxcskyy)
