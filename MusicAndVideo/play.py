@@ -229,13 +229,13 @@ async def playfrom(client, m: Message):
                     )
             await hmm.delete()
             await m.reply(
-                f"➕ Added {lmt} Song to Queue\n• Klik {HNDLR}playlist Untuk Melihat Daftar Putar**"
+                f"➕ Added {lmt} Song to Queue\n• Klik {HNDLR}vplaylist Untuk Melihat Daftar Putar**"
             )
         except Exception as e:
             await hmm.edit(f"**ERROR** \n`{e}`")
 
 
-@Client.on_message(filters.command(["playlist", "queue"], prefixes=f"{HNDLR}"))
+@Client.on_message(filters.command(["vplaylist", "queue"], prefixes=f"{HNDLR}"))
 async def playlist(client, m: Message):
     chat_id = m.chat.id
     if chat_id in QUEUE:
