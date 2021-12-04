@@ -73,7 +73,7 @@ async def help(client, m: Message):
 
 ⚡ PERINTAH UNTUK SEMUA ORANG
 • {HNDLR}vplay [judul video | link youtube | balas file video] - untuk memutar video
-• {HNDLR}playlist untuk melihat daftar putar
+• {HNDLR}vplaylist - untuk melihat daftar putar video
 • {HNDLR}help - untuk melihat daftar perintah
 
 ⚡ PERINTAH UNTUK SEMUA ADMIN
