@@ -5,7 +5,7 @@
 
 ## KALAU NGEFORK JANGAN LUPA KASI STARNYA YA ANJG 
  
-## Testi Bot [ᴍᴜꜱɪᴄ ᴋᴇᴋɪɴɪᴀɴ](https://t.me/Kekiniian_bot)
+## Testi Bot [KEKINIAN ROBOT](https://t.me/KekiniBot)
 
 ## Credit
-• [ᴾᴱᴺᴳᴳᴬᴸᴵ ᴷᵁᴮᵁᴿ](t.me/rumahakhirat)
+• [Zal-EX](t.me/rumahakhirat)
